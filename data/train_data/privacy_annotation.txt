@@ -1,0 +1,29 @@
+Q: What is "Personally Identifiable Information" (PII)?  
+A: "Personally Identifiable Information" (PII) refers to any information that identifies or can be used to identify, contact, or locate a person, including but not limited to name, address, phone number, email address, financial profiles, and social security number.
+
+Q: How does VisitPittsburgh collect PII?  
+A: VisitPittsburgh collects PII when users register on their website, use the Request for Proposal option, or correspond with VisitPittsburgh via email, fax, or regular mail.
+
+Q: What type of information does VisitPittsburgh collect through cookies?  
+A: VisitPittsburgh uses cookies to collect information about user behavior on their website including URLs visited, browser type, and IP address, which helps enhance user experience and provide tailored services.
+
+Q: How does VisitPittsburgh use the PII they collect?  
+A: The information is used to provide requested services, communicate with users, prepare proposals for services, enhance user experience, and resolve disputes or troubleshoot problems.
+
+Q: Can I opt out of receiving communications from VisitPittsburgh?  
+A: Yes, users can opt out of marketing communications by declining the service offered or informing VisitPittsburgh that they no longer wish to receive such communications.
+
+Q: Who does VisitPittsburgh share my PII with?  
+A: VisitPittsburgh may disclose PII to member hotels, convention centers, and other businesses to allow them to prepare proposals in response to user Requests for Proposals.
+
+Q: How does VisitPittsburgh protect the security of PII?  
+A: VisitPittsburgh uses several security measures including Secure Sockets Layer protocol, user login/password protection, and access control to ensure the security of PII.
+
+Q: Can I correct inaccuracies in my PII provided to VisitPittsburgh?  
+A: Yes, users can request access to their PII, request corrections, or request deletion of their PII by contacting VisitPittsburgh via email.
+
+Q: What is the Retargeting Policy of VisitPittsburgh?  
+A: VisitPittsburgh uses Google AdWords remarketing to advertise to previous visitors who may not have completed tasks on the website and uses cookies to serve targeted ads based on users' past visits.
+
+Q: How can I stay informed about changes to VisitPittsburgh's Privacy Policy?  
+A: VisitPittsburgh reserves the right to change its Privacy Policy at any time and will notify users of any new policies regarding the use or disclosure of PII. Users are encouraged to regularly check the website for updates.
